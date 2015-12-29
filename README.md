@@ -1,5 +1,5 @@
 
-## <a href="https://www.eventedmind.com/classes/" target="_blank">Class: Running Time and Asymptotic Notation</a>
+## <a href="https://www.eventedmind.com/classes/running-time-and-asymptotic-notation-eeedfb95" target="_blank">Class: Running Time and Asymptotic Notation</a>
 
 **Computer Science**<br>
 ****
