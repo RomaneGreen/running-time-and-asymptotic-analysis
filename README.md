@@ -9,7 +9,7 @@ Do you ever feel like you never completely understood asymptotic notation and ru
 **What's in this class?**
 
 
-* <a href="https://www.eventedmind.com/classes//a-message-from-chris-266af8f0" target="_blank">A Message From Chris</a> - 
+* <a href="https://www.eventedmind.com/classes//a-message-from-chris-266af8f0" target="_blank">A Message From Chris</a> - I'd like to give you a quick reason I decided to do this class. I'd like your feedback on whether this type of material is helpful. Please leave a comment in the comment box!
 
 * <a href="https://www.eventedmind.com/classes//what-is-running-time-b1e0f299" target="_blank">What is Running Time?</a> - In this video you'll learn what is meant by the phrase "running time." We'll come up with an expression for the running time of a simple JavaScript function.
 
